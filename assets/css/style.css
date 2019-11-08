@@ -1,0 +1,54 @@
+.page {
+    background-color: gray;
+    display: flex;
+    margin: 40px;
+    
+}
+.header {
+    background-color: lightgray;
+    flex: 0 0 100%;
+    
+}
+.namebox {
+    background-color: aquamarine;
+    padding: 24px;
+    font-size: 30px;
+    flex: 0 1 0;
+    
+}
+.about {
+    background-color: beige;;
+    color: gray;
+    padding: 8px;
+    align-content: center;
+}
+.portfolio {
+    background-color: beige;;
+    color: gray;
+    padding: 8px;
+}
+.contact {
+    background-color: beige;;
+    color: gray;
+    padding: 8px;
+}
+.section {
+
+}
+.img {
+
+}
+p {
+    font-family: 'Open Sans', sans-serif;
+}
+h1 {
+    color: aqua;
+    padding: 12px;
+    font-weight: 800;
+    font-size: 30px;
+}
+
+
+
+font-family: 'Open Sans', sans-serif;
+font-family: 'Bowlby One SC', cursive;
